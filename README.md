@@ -4,4 +4,4 @@ Different techniques used to calculate estimated prices of housing according to 
 - [x] svd (Singular Value Decomposition)
 - [x] svd-jacobi 
 - [x] svd-qr 
- -[ ] simple linear regression
+- [ ] simple linear regression
